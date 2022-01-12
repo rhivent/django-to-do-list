@@ -6,7 +6,7 @@ Flask-MySQL==1.4.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 PyMySQL==0.9.3
 pytz==2019.1
 sqlparse==0.3.0
